@@ -7,4 +7,6 @@ Created on Tue Aug  7 23:54:42 2018
 """
 
 WhatISay = 'Hello CodeJudge!'
+a=3;
+print(a)
 
